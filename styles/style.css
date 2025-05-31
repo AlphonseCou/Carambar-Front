@@ -1,0 +1,19 @@
+body{
+    display: flex;
+background-image: url("../images/carambar-1600x784.webp");
+height: full;
+}
+
+button{
+    cursor: pointer;
+    background-color:red;
+    border-color: red;
+    display: flex;
+    margin-right: 10% ;
+    margin-left: auto;
+    margin-top: 24%;
+    height:4vh
+    
+    
+
+}
