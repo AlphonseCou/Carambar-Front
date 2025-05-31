@@ -1,15 +1,11 @@
-// Appel API vers localhost:7000
-// ensuite les routes pour avoir une blague
-
-// listener sur le bouton
-// une div pour afficher le resultat
-
 const btnGetJoke = document.getElementById("btnGetJoke");
 const displayJoke = document.getElementById("displayJoke");
 
 async function getJoke() {
   try {
-    const response = await fetch("http://localhost:7000/blague/random");
+    const response = await fetch(
+      "https://carambar-back-nq59.onrender.com/blague/random"
+    );
     const joke = await response.json();
 
     displayJoke.innerHTML = `
