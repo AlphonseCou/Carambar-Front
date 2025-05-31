@@ -9,7 +9,7 @@ async function getJoke() {
     const joke = await response.json();
 
     displayJoke.innerHTML = `
-        <div class="joke">
+        <div id="joke">
           <p><strong>Question:</strong> ${joke.question}</p>
           <p><strong>Réponse:</strong> ${joke.answer}</p>
         </div>
