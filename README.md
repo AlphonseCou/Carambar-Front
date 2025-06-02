@@ -1,6 +1,6 @@
 # Carambar Front
 
-Partie back du projet Carambar
+Partie front et donc visuel du projet Carambar
 
 ## 🚀 Déployé sur GitHub Page
 
