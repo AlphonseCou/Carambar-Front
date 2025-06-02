@@ -1,3 +1,7 @@
-# carambar-front
+# Carambar Front
 
-La page est sur github page : https://alphonsecou.github.io/Carambar-Front/
+Partie back du projet Carambar
+
+## 🚀 Déployé sur GitHub Page
+
+https://alphonsecou.github.io/Carambar-Front/
